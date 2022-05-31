@@ -1,0 +1,2 @@
+20220531	11:31:59	6fba50a2-891c-49ce-bc4d-f1a7b437ea8a	Log event emitted
+20220531	11:32:33	e6a88057-de14-481e-aba5-c71f1f122527	Log event emitted
